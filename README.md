@@ -1,3 +1,7 @@
+⛔️ DEPRECATED
+
+This does not support omnipay v3, therefore is no longer supported. Please consider using https://github.com/lxrco/omnipay-elavon instead.
+
 # Omnipay: Elavon
 
 **Elavon payment processing driver for the Omnipay PHP payment processing library**
